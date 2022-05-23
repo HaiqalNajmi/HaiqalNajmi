@@ -23,6 +23,14 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaiqalNajmi&langs_count=10&count_private=true&theme=react&layout=compact&hide_border=true&bg_color=0D1117" height="200"/>
 </p>
 
+
+<h1 align="center">Let's connect!</h1>
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/60173276246)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haiqalnajmi21@gmail.com?subject=github_message)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HaiqalNajmi?tab=follow)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://najmi.lepak.xyz/)
+
 <!--
 **HaiqalNajmi/HaiqalNajmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 👯 I’m looking to collaborate on ...
