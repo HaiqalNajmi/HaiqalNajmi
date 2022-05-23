@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Najmi</h1>
 <h3 align="center">I'm a passionate Software Developer from Malaysia.</h3>
+Location: [Kuala Lumpur](https://www.dbkl.gov.my), [Malaysia](https://www.malaysia.gov.my). Timezone: [UTC+8](https://www.timeanddate.com/worldclock/malaysia/kuala-lumpur).
 
 ### About me 🙋‍♂️
 Here are some ideas to get you started:
