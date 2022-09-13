@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my **Final Year Project**.
 - 🌱 I’m currently learning <b> Java (Android Studio), Laravel, CodeIgniter and Flutter</b>
-- 📫 How to reach me: email me at <b>haiqalnajmi21@gmail.com</b>
+- 📫 How to reach me: Email me at <b>haiqalnajmi21@gmail.com</b>
 - 🖥️ My [Portfolio](http://najmi.lepak.xyz/)
 - 😄 Pronouns: Najmi
 - ⚡ Fun fact: I love history especially regarding ancient civilization.
@@ -21,10 +21,10 @@ Here are some ideas to get you started:
  	user = 'Haiqal Najmi'
 		current_work = 'Front-End Developer Intern'
 		hobbies = [
-				'Learning Photo Editing',
-				'Playing Football',
-				'Reading Crime-fiction Novels'
-				'Casual Gamer...'
+				'Learning photo editing',
+				'Playing football',
+				'Reading crime-fiction novels'
+				'Watching Netflix series...'
 			]
 	
 	def getCity():
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 		FindingFossils()
 		CreatingLightSaber()
 		TravelingAroundTheWorld()
-      BecomingFullStackDeveloper()
+      		BecomingFullStackDeveloper()
 		# Assume 5 more awesome ambitions here -.-
 	
  ```
