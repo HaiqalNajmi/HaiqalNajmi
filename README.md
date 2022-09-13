@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 		FindingFossils()
 		CreatingLightSaber()
 		TravelingAroundTheWorld()
-      		BecomingFullStackDeveloper()
+		BecomingFullStackDeveloper()
 		# Assume 5 more awesome ambitions here -.-
 	
  ```
