@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🖥️ My [Portfolio](http://najmi.lepak.xyz/)
 - 😄 Pronouns: Najmi
 - ⚡ Fun fact: I love history especially regarding ancient civilization.
-- - 💬 Ask me about nothing. I'm good with it.
+- 💬 Ask me about nothing. I'm good with it.
 <br>
 
 ## Who am I?
