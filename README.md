@@ -15,6 +15,30 @@ Here are some ideas to get you started:
 - - 💬 Ask me about nothing. I'm good with it.
 <br>
 
+## Who am I?
+ ```python
+ class WhoAmI:
+ 	user = 'Haiqal Najmi'
+		current_work = 'Front-End Developer Intern'
+		hobbies = [
+				'Learning Photo Editing',
+				'Playing Football',
+				'Reading Crime-fiction Novels'
+				'Casual Gamer...'
+			]
+	
+	def getCity():
+		return Setapak_KL()
+	
+	def Ambitions():
+		FindingFossils()
+		CreatingLightSaber()
+		TravelingAroundTheWorld()
+      BecomingFullStackDeveloper()
+		# Assume 5 more awesome ambitions here -.-
+	
+ ```
+
 <h1 align="center">Github Stats</h1>
 <p align="center">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HaiqalNajmi&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
