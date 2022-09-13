@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 <h1 align="center">Let's connect!</h1>
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/60173276246)
+[![Gmail Badge](https://img.shields.io/badge/-haiqalnajmi21@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haiqalnajmi21@gmail.com)](mailto:haiqalnajmi21@gmail.com)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haiqalnajmi21@gmail.com?subject=github_message)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HaiqalNajmi?tab=follow)
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://najmi.lepak.xyz/)
