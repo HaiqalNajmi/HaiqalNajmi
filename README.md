@@ -19,12 +19,12 @@ Here are some ideas to get you started:
  ```python
  class WhoAmI:
  	user = 'Haiqal Najmi'
-		current_work = 'Front-End Developer Intern'
+		work_experience = 'Front-End Developer Intern at RPG Commerce'
 		hobbies = [
 				'Learning photo editing',
 				'Playing football',
-				'Reading crime-fiction novels'
-				'Watching Netflix series...'
+				'Reading books & novels'
+				'Travelling...'
 			]
 	
 	def getCity():
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 	
 	def Ambitions():
 		FindingFossils()
-		CreatingLightSaber()
+		OwningHouse&Car()
 		TravelingAroundTheWorld()
 		BecomingFullStackDeveloper()
 		# Assume 5 more awesome ambitions here -.-
