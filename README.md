@@ -6,13 +6,13 @@
 ### About me 🙋‍♂️
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my **Final Year Project**.
-- 🌱 I’m currently learning <b> Java (Android Studio), Laravel, CodeIgniter and Flutter</b>
+- 🔭 I’m currently working on my **Internship Final Year Project**.
+- 🌱 I’m currently learning <b> Java (Android Studio), Laravel, CodeIgniter, Flutter and Shopify's Liquid</b>
 - 📫 How to reach me: Email me at <b>haiqalnajmi21@gmail.com</b>
 - 🖥️ My [Portfolio](http://najmi.lepak.xyz/)
 - 😄 Pronouns: Najmi
-- ⚡ Fun fact: I love history especially regarding ancient civilization.
-- 💬 Reach me out if you have question
+- ⚡ Fun fact: Did you know that the term "bug" to refer to a software or hardware issue originated from an actual insect? In 1947, while working on the Mark II computer at Harvard University, computer scientist Grace Hopper discovered a moth stuck in a relay and recorded it as the "first actual case of bug being found." Since then, the term "bug" has been widely used to describe any kind of problem or error in computer systems..
+- 💬 Reach me out if you have inquiries.
 <br>
 
 ## Who am I?
