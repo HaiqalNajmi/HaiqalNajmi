@@ -6,7 +6,7 @@
 ### About me 🙋‍♂️
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my **Internship Final Year Project**.
+- 🔭 I’m currently working on my **Project**.
 - 🌱 I’m currently learning <b> Java (Android Studio), Laravel, CodeIgniter, Flutter and Shopify's Liquid</b>
 - 📫 How to reach me: Email me at <b>haiqalnajmi21@gmail.com</b>
 - 🖥️ My [Portfolio](http://najmi.lepak.xyz/)
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
  ```python
  class WhoAmI:
  	user = 'Haiqal Najmi'
-		work_experience = 'Front-End Developer Intern at RPG Commerce'
+		work_experience = 'Former Front-End Developer Intern'
 		hobbies = [
 				'Learning photo editing',
 				'Playing football',
@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 			]
 	
 	def getCity():
-		return Setapak_KL()
+		return KL()
 	
 	def Ambitions():
-		FindingFossils()
+		BecomeWorldClassStriker()
 		OwningHouse&Car()
 		TravelingAroundTheWorld()
 		BecomingFullStackDeveloper()
