@@ -6,11 +6,11 @@
 ### About me 🙋‍♂️
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my **Project**.
-- 🌱 I’m currently learning <b> Java (Android Studio), Laravel, CodeIgniter, Flutter and Shopify's Liquid</b>
+- 🔭 I’m currently working on a **Project**.
+- 🌱 I’m currently learning <b> Java, PHP, Flutter, Shopify's Liquid, MySQL, & AS400</b>
 - 📫 How to reach me: Email me at <b>haiqalnajmi21@gmail.com</b>
-- 🖥️ My [Portfolio](http://najmi.lepak.xyz/)
-- 😄 Pronouns: Najmi
+- 🖥️ My [Portfolio]()
+- 😄 Pronouns: Haiqal
 - ⚡ Fun fact: Did you know that the term "bug" to refer to a software or hardware issue originated from an actual insect? In 1947, while working on the Mark II computer at Harvard University, computer scientist Grace Hopper discovered a moth stuck in a relay and recorded it as the "first actual case of bug being found." Since then, the term "bug" has been widely used to describe any kind of problem or error in computer systems..
 - 💬 Reach me out if you have inquiries.
 <br>
@@ -18,24 +18,19 @@ Here are some ideas to get you started:
 ## Who am I?
  ```python
  class WhoAmI:
- 	user = 'Haiqal Najmi'
-		work_experience = 'Former Front-End Developer Intern'
+ 	user = 'Muhammad Haiqal Najmi'
+		work_experience = 'Software Engineer'
 		hobbies = [
-				'Learning photo editing',
-				'Playing football',
-				'Reading books & novels'
-				'Travelling...'
+				'Playing football & badminton',
+				'Reading books & novel'
 			]
 	
 	def getCity():
 		return KL()
 	
 	def Ambitions():
-		BecomeWorldClassStriker()
-		OwningHouse&Car()
-		TravelingAroundTheWorld()
-		BecomingFullStackDeveloper()
-		# Assume 5 more awesome ambitions here -.-
+		BecomeFullStackDeveloper()
+		TravelAroundTheWorld()
 	
  ```
 
@@ -67,10 +62,10 @@ Here are some ideas to get you started:
 
 <h1 align="center">Let's connect!</h1>
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/60173276246)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haiqalnajmi21@gmail.com?subject=github_message)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HaiqalNajmi?tab=follow)
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://najmi.lepak.xyz/)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]()
 <a href = "https://www.linkedin.com/in/haiqalnajmi/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 <!--
