@@ -21,8 +21,8 @@ Here are some ideas to get you started:
  	user = 'Muhammad Haiqal Najmi'
 		work_experience = 'Software Engineer'
 		hobbies = [
-				'Playing football & badminton',
-				'Reading books & novel'
+				'Playing football & tennis',
+				'Hiking'
 			]
 	
 	def getCity():
