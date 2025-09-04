@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## Who am I?
  ```python
  class WhoAmI:
- 	user = 'Haiqal'
+ 	user = 'Muhammad Haiqal Najmi Bin Zulkarnain'
 		work_experience = 'Software Engineer'
 		hobbies = [
 				'Playing football & tennis',
